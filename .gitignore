@@ -1,0 +1,10 @@
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Downloaded / generated data (can be large; regenerate from scripts)
+data/*.json
+data/*.jsonl
