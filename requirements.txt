@@ -1,2 +1,6 @@
-# Data pipeline dependencies (data-only phase)
+# Data pipeline dependencies
 requests==2.32.3
+
+# Embedding / semantic search
+sentence-transformers==3.0.1
+numpy==1.26.4

@@ -8,3 +8,4 @@ __pycache__/
 # Downloaded / generated data (can be large; regenerate from scripts)
 data/*.json
 data/*.jsonl
+data/*.npy
