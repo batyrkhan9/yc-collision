@@ -1,10 +1,10 @@
 # yc-collision
 
-Type in a one-sentence startup idea and get back the Y Combinator companies
-whose descriptions are closest in meaning — including ones that shut down or
-got acquired. Useful for checking what's already been tried before you build.
+type in a one-sentence startup idea and get back the Y Combinator companies
+whose descriptions are closest in meaning, including ones that shut down or
+got acquired. i built it for checking what's already been tried before you build.
 
-It uses semantic search, so it matches on meaning, not keywords. Searching for
+it uses semantic search, so it matches on meaning, not keywords. searching for
 "send big files between people privately" finds a company described as "really
 secure file sending for big files" even though almost none of the words match.
 
